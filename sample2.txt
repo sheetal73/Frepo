@@ -1,1 +1,2 @@
 Understanding GitHub Now
+This is a Handson Class
